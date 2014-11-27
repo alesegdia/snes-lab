@@ -9,12 +9,12 @@
 ;------------------------------------------------------------------------
 
 ;=== Include MemoryMap, VectorTable, HeaderInfo ===
-.INCLUDE "walker.inc"
+.INCLUDE "Walker.inc"
 
 ;=== Include Library Routines & Macros ===
 .INCLUDE "LoadGraphics.asm"
 .INCLUDE "InitSNES.asm"
-.INCLUDE "2input.asm"
+.INCLUDE "2Input.asm"
 .INCLUDE "Sprites.asm"
 .INCLUDE "Strings.asm"
 
