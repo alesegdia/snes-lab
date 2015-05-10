@@ -22,6 +22,10 @@
 * [Bass assembler](https://github.com/ARM9/bass)
 * [WLA-DX assembler](https://github.com/vhelin/wla-dx)
 
+### Tools
+
+* [pcx2snes](http://www.romhacking.net/utilities/443/). Tool for converting PC image format to SNES format.
+
 ### Emulation
 
 * [Higan](http://byuu.org/emulation/higan/)
