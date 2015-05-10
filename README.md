@@ -17,7 +17,11 @@
 
 ## Software
 
+### Development
+
+* [Bass](https://github.com/ARM9/bass)
+
+
 ### Emulation
 
-* [Higan](http://byuu.org/emulation/higan/) by [byuu](http://byuu.org/)
-* [Bass](https://github.com/ARM9/bass)
+* [Higan](http://byuu.org/emulation/higan/)
