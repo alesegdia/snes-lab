@@ -24,7 +24,7 @@
 
 ### Tools
 
-* [pcx2snes](http://www.romhacking.net/utilities/443/). Tool for converting PC image format to SNES format.
+* [pcx2snes](http://www.romhacking.net/utilities/443/). Convert PCX to SNES format.
 
 ### Emulation
 
