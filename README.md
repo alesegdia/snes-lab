@@ -3,6 +3,7 @@
 
 ## Wiki
 * [SNES development wiki](http://wiki.superfamicom.org/snes/show/HomePage)
+* [SNES Programming WikiBook](https://en.wikibooks.org/wiki/Super_NES_Programming) 
 
 ## Kits, sourcepacks
 
