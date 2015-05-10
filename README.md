@@ -5,10 +5,12 @@
 * [SNES development wiki](http://wiki.superfamicom.org/snes/show/HomePage)
 * [SNES Programming WikiBook](https://en.wikibooks.org/wiki/Super_NES_Programming) 
 
-## Kits, sourcepacks
+## SDK, demos
 
 * [SNES-starterkit](http://wiki.superfamicom.org/snes/show/Setting+Up+a+Programming+Environment) by [Nevitski](http://www.romhacking.net/community/864/)
 * [PeterLemon's asm samples](https://github.com/PeterLemon/SNES)
+* [optixx's SNES SDK](https://github.com/optixx/snes-sdk)
+* [optixx's SNES demos](https://github.com/optixx/snes)
 
 ## Tech
 
@@ -25,7 +27,7 @@
 
 ### Tools
 
-* [pcx2snes](http://www.romhacking.net/utilities/443/). Convert PCX to SNES format.
+* [pcx2snes by Nevitski](http://www.romhacking.net/utilities/443/). Convert PCX to SNES format.
 
 ### Emulation
 
