@@ -12,4 +12,5 @@
 ## Tech
 
 * [Yoshi's SNES documentation](http://patpend.net/technical/snes/snes.txt)
+* [nocash's SNES hardware specifications](http://problemkaputt.de/fullsnes.htm)
 * [Qwertie's SNES Documentation](http://emu-docs.org/Super%20NES/General/snesdoc.html)
