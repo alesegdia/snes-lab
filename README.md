@@ -19,8 +19,8 @@
 
 ### Development
 
-* [Bass](https://github.com/ARM9/bass)
-
+* [Bass assembler](https://github.com/ARM9/bass)
+* [WLA-DX assembler](https://github.com/vhelin/wla-dx)
 
 ### Emulation
 
