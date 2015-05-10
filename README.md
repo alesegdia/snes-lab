@@ -10,7 +10,7 @@ This is a list of SNES demos, tools and docs. Feel free to suggest links by pull
 ## SDK, demos
 
 * [SNES-starterkit](http://wiki.superfamicom.org/snes/show/Setting+Up+a+Programming+Environment) by [Nevitski](http://www.romhacking.net/community/864/)
-* [PeterLemon's asm samples](https://github.com/PeterLemon/SNES)
+* [PeterLemon's bass asm samples](https://github.com/PeterLemon/SNES)
 * [optixx's SNES SDK](https://github.com/optixx/snes-sdk)
 * [optixx's SNES demos](https://github.com/optixx/snes)
 * [gilligan's SNES repo](https://github.com/gilligan/snesdev)
