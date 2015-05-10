@@ -1,6 +1,8 @@
 
 # snes-lab
 
+This is a list of SNES demos, tools and docs. Feel free to suggest links by pull requests.
+
 ## Wiki
 * [SNES development wiki](http://wiki.superfamicom.org/snes/show/HomePage)
 * [SNES Programming WikiBook](https://en.wikibooks.org/wiki/Super_NES_Programming) 
