@@ -14,3 +14,10 @@
 * [Yoshi's SNES documentation](http://patpend.net/technical/snes/snes.txt)
 * [nocash's SNES hardware specifications](http://problemkaputt.de/fullsnes.htm)
 * [Qwertie's SNES Documentation](http://emu-docs.org/Super%20NES/General/snesdoc.html)
+
+## Software
+
+### Emulation
+
+* [Higan](http://byuu.org/emulation/higan/) by [byuu](http://byuu.org/)
+* [Bass](https://github.com/ARM9/bass)
