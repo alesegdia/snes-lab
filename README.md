@@ -26,9 +26,6 @@ This is a list of SNES demos, tools and docs. Feel free to suggest links by pull
 
 * [Bass assembler](https://github.com/ARM9/bass)
 * [WLA-DX assembler](https://github.com/vhelin/wla-dx)
-
-### Tools
-
 * [pcx2snes by Nevitski](http://www.romhacking.net/utilities/443/). Convert PCX to SNES format.
 
 ### Emulation
