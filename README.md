@@ -8,3 +8,8 @@
 
 * [SNES-starterkit](http://wiki.superfamicom.org/snes/show/Setting+Up+a+Programming+Environment) by [Nevitski](http://www.romhacking.net/community/864/)
 * [PeterLemon's asm samples](https://github.com/PeterLemon/SNES)
+
+## Tech
+
+* [Yoshi's SNES documentation](http://patpend.net/technical/snes/snes.txt)
+* [Qwertie's SNES Documentation](http://emu-docs.org/Super%20NES/General/snesdoc.html)
